@@ -1,0 +1,4 @@
+interface:
+  display_name: "UGC Ad Remix"
+  short_description: "Turn a proven UGC video ad into a shot-by-shot script for your product."
+  default_prompt: "Use $ugc-ad-remix: here is a UGC ad that works and my product. Give me two scripts I can film."
